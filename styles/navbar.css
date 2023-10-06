@@ -1,0 +1,35 @@
+.header {
+    background-color: #8DB6CD;
+    color: #fff;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+  }
+  
+  /* CSS for navStyles */
+  .nav {
+    list-style: none;
+    padding: 0;
+  }
+  
+  /* CSS for linkStyles */
+  .link {
+    text-decoration: none;
+    color: #fff;
+    font-family: georgia;
+  }
+  
+  /* CSS for listItemStyles */
+  .list-item {
+    display:inline-block;
+    margin: 0 10px;
+    text-align: center;
+  }
+  
+  /* CSS for logoStyles */
+  .logo {
+    width: 30px;
+    height: auto;
+  }
