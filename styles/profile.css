@@ -66,3 +66,21 @@
     height:fit-content;
     
 }
+.chatBot {
+  display: flex;
+  flex-direction: column;
+  max-width: 65px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 34px;
+  padding-top: 20px;
+  padding-right: 30px;
+  padding-bottom: 20px;
+  padding-left: 18px;
+  background-image: url("https://cdn.builder.io/api/v1/image/assets/TEMP/e707bb0b-a767-44ee-9250-ce414331b216?");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-right:20px;
+}
+

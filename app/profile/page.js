@@ -50,8 +50,12 @@ export default function Home() {
             <div className="course">
             <img  style={{width:"300px", height:"250px"}} src="../images/computer.JPG" alt="computer" />
             </div>
+            <a href="/">
+            <div className="chatBot"></div>
+            </a>
         </div>
     </div>
+
 </div>
 )
   }
